@@ -1,4 +1,4 @@
-#Algorithm For Two Sides of Triangle and calculate its Area
+#Algorithm For Two Sides of Rectangle and calculate its Area
 Algorithm
 Step 1:Start
 Step 2:Input W,L
